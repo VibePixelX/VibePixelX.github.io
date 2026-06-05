@@ -1,0 +1,5002 @@
+[
+  {
+    "id": "beauty-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/300.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "demolition-derby-derby",
+    "thumbnail": "https://VibePixelX.github.io/images/301.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "horror-forest-bear",
+    "thumbnail": "https://VibePixelX.github.io/images/302.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mahjong-match",
+    "thumbnail": "https://VibePixelX.github.io/images/303.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "single-stroke-line-draw",
+    "thumbnail": "https://VibePixelX.github.io/images/304.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sword-run-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/305.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "idle-legend",
+    "thumbnail": "https://VibePixelX.github.io/images/306.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bouncepop-quest",
+    "thumbnail": "https://VibePixelX.github.io/images/307.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "squid-escape-game",
+    "thumbnail": "https://VibePixelX.github.io/images/308.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "little-lily-halloween-prep",
+    "thumbnail": "https://VibePixelX.github.io/images/309.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "puzzle-blocks-asmr-match",
+    "thumbnail": "https://VibePixelX.github.io/images/310.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cannon-shooter",
+    "thumbnail": "https://VibePixelX.github.io/images/311.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "skibronx-runner",
+    "thumbnail": "https://VibePixelX.github.io/images/312.webp",
+    "genre": "Adventure, Sports"
+  },
+  {
+    "id": "roblo-x-zombie",
+    "thumbnail": "https://VibePixelX.github.io/images/313.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "smash-the-bottle",
+    "thumbnail": "https://VibePixelX.github.io/images/314.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "farm-block",
+    "thumbnail": "https://VibePixelX.github.io/images/315.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "doge-rush-draw-home-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/316.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "kitty-couple-lovely-valentine",
+    "thumbnail": "https://VibePixelX.github.io/images/317.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "planet-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/318.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "data-diggers",
+    "thumbnail": "https://VibePixelX.github.io/images/319.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tip-tap",
+    "thumbnail": "https://VibePixelX.github.io/images/320.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "save-baby-capybaras-pull-pin",
+    "thumbnail": "https://VibePixelX.github.io/images/321.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "block-craft-3d-school",
+    "thumbnail": "https://VibePixelX.github.io/images/322.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "going-balls-adventure-2",
+    "thumbnail": "https://VibePixelX.github.io/images/323.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "merge-the-coins-ussr",
+    "thumbnail": "https://VibePixelX.github.io/images/324.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "volley-bean",
+    "thumbnail": "https://VibePixelX.github.io/images/325.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "disk-rush",
+    "thumbnail": "https://VibePixelX.github.io/images/326.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "emoji-challenge",
+    "thumbnail": "https://VibePixelX.github.io/images/327.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "upgrade-the-supercar-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/328.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-blocks-2048-style",
+    "thumbnail": "https://VibePixelX.github.io/images/329.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rift-of-hell-demons-war",
+    "thumbnail": "https://VibePixelX.github.io/images/330.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "sprunki-challenge",
+    "thumbnail": "https://VibePixelX.github.io/images/331.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "survival-island",
+    "thumbnail": "https://VibePixelX.github.io/images/332.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dolphin-dash",
+    "thumbnail": "https://VibePixelX.github.io/images/333.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stunt-bike-rider-bros",
+    "thumbnail": "https://VibePixelX.github.io/images/334.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "dog-merge-mania",
+    "thumbnail": "https://VibePixelX.github.io/images/335.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "queen-of-mahjong",
+    "thumbnail": "https://VibePixelX.github.io/images/336.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "giant-run-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/337.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-prison-escape",
+    "thumbnail": "https://VibePixelX.github.io/images/338.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dynamons-10",
+    "thumbnail": "https://VibePixelX.github.io/images/339.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "food-jam",
+    "thumbnail": "https://VibePixelX.github.io/images/340.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "fps-toy-realism",
+    "thumbnail": "https://VibePixelX.github.io/images/341.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "butterfly-kyodai-deluxe-2",
+    "thumbnail": "https://VibePixelX.github.io/images/342.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "stickman-battle-1-4-players",
+    "thumbnail": "https://VibePixelX.github.io/images/343.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "battle-tanks-firestorm",
+    "thumbnail": "https://VibePixelX.github.io/images/344.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "black-hole-beauty-makeup",
+    "thumbnail": "https://VibePixelX.github.io/images/345.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-zen-garden",
+    "thumbnail": "https://VibePixelX.github.io/images/346.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "run-from-baba-yaga",
+    "thumbnail": "https://VibePixelX.github.io/images/347.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "sandwich-runner",
+    "thumbnail": "https://VibePixelX.github.io/images/348.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "parking-fury-3d-beach-city-2",
+    "thumbnail": "https://VibePixelX.github.io/images/349.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "zombie-raft",
+    "thumbnail": "https://VibePixelX.github.io/images/350.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "asmr-beauty-homeless",
+    "thumbnail": "https://VibePixelX.github.io/images/351.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "natural-disaster-survival-obby",
+    "thumbnail": "https://VibePixelX.github.io/images/352.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "bolt-climb-tap-to-the-top",
+    "thumbnail": "https://VibePixelX.github.io/images/353.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "ball-eating-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/354.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "words-from-words",
+    "thumbnail": "https://VibePixelX.github.io/images/355.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "flick-n-bounce",
+    "thumbnail": "https://VibePixelX.github.io/images/356.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-connect-cookware",
+    "thumbnail": "https://VibePixelX.github.io/images/357.webp",
+    "genre": "Cooking, Mahjong & Connect"
+  },
+  {
+    "id": "incredible-kids-dentist",
+    "thumbnail": "https://VibePixelX.github.io/images/358.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "br-br-patapim-obby-challenge",
+    "thumbnail": "https://VibePixelX.github.io/images/359.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "princess-rescue-fruit-connect",
+    "thumbnail": "https://VibePixelX.github.io/images/360.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "100-doors-puzzle-box",
+    "thumbnail": "https://VibePixelX.github.io/images/361.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "load-the-dishes-asmr",
+    "thumbnail": "https://VibePixelX.github.io/images/362.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "flick-baseball-super-homerun",
+    "thumbnail": "https://VibePixelX.github.io/images/363.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "jelly-run-2048",
+    "thumbnail": "https://VibePixelX.github.io/images/364.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dream-pet-hotel",
+    "thumbnail": "https://VibePixelX.github.io/images/365.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "stick-color-war",
+    "thumbnail": "https://VibePixelX.github.io/images/366.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "craft-man-vs-giant-tnt",
+    "thumbnail": "https://VibePixelX.github.io/images/367.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "superhero-phone-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/368.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "outside",
+    "thumbnail": "https://VibePixelX.github.io/images/369.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "bricks-breaker-gravity-balls",
+    "thumbnail": "https://VibePixelX.github.io/images/370.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "crazy-plane-landing",
+    "thumbnail": "https://VibePixelX.github.io/images/371.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "uphill-rush-13",
+    "thumbnail": "https://VibePixelX.github.io/images/372.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "xiblba-match",
+    "thumbnail": "https://VibePixelX.github.io/images/373.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mahjong-connect-majong-class",
+    "thumbnail": "https://VibePixelX.github.io/images/374.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "lamphead",
+    "thumbnail": "https://VibePixelX.github.io/images/375.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "cannons-blast-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/376.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "idol-livestream-doll-dress-up",
+    "thumbnail": "https://VibePixelX.github.io/images/377.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sustainable",
+    "thumbnail": "https://VibePixelX.github.io/images/378.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fashion-famous",
+    "thumbnail": "https://VibePixelX.github.io/images/379.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "magical-diary-paper-dress-up",
+    "thumbnail": "https://VibePixelX.github.io/images/380.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "maze-escape-craft-man",
+    "thumbnail": "https://VibePixelX.github.io/images/381.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "nuts-stack-sort-nuts-bolts",
+    "thumbnail": "https://VibePixelX.github.io/images/382.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "robby-the-lava-tsunami",
+    "thumbnail": "https://VibePixelX.github.io/images/383.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "linklink",
+    "thumbnail": "https://VibePixelX.github.io/images/384.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-squares",
+    "thumbnail": "https://VibePixelX.github.io/images/385.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pizza-tycoon",
+    "thumbnail": "https://VibePixelX.github.io/images/386.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "animal-block-pop-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/387.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "mickey-run-adventure-game",
+    "thumbnail": "https://VibePixelX.github.io/images/388.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "italian-brainrot-jigsaw",
+    "thumbnail": "https://VibePixelX.github.io/images/389.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "perfect-job-run",
+    "thumbnail": "https://VibePixelX.github.io/images/390.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "headless-joe",
+    "thumbnail": "https://VibePixelX.github.io/images/391.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crazy-van",
+    "thumbnail": "https://VibePixelX.github.io/images/392.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "race-it-car-racing",
+    "thumbnail": "https://VibePixelX.github.io/images/393.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "goal-io",
+    "thumbnail": "https://VibePixelX.github.io/images/394.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "paint-roller",
+    "thumbnail": "https://VibePixelX.github.io/images/395.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "robby-bomberman",
+    "thumbnail": "https://VibePixelX.github.io/images/396.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "last-to-leave-circle-obby",
+    "thumbnail": "https://VibePixelX.github.io/images/397.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "tanks-merge-tank-war-blitz",
+    "thumbnail": "https://VibePixelX.github.io/images/398.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "nonogram-master",
+    "thumbnail": "https://VibePixelX.github.io/images/399.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "magic-piano-music",
+    "thumbnail": "https://VibePixelX.github.io/images/400.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stack-battleio",
+    "thumbnail": "https://VibePixelX.github.io/images/401.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "9-blocks",
+    "thumbnail": "https://VibePixelX.github.io/images/402.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-troll-thief-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/403.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mages-secret",
+    "thumbnail": "https://VibePixelX.github.io/images/404.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "my-kitties-catworld",
+    "thumbnail": "https://VibePixelX.github.io/images/405.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "2048-cube-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/406.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "robocarpoli",
+    "thumbnail": "https://VibePixelX.github.io/images/407.webp",
+    "genre": "Adventure, Educational"
+  },
+  {
+    "id": "enchanted-mahjong-saga",
+    "thumbnail": "https://VibePixelX.github.io/images/408.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "kinder-garden",
+    "thumbnail": "https://VibePixelX.github.io/images/409.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "hide-seek-go-and-find",
+    "thumbnail": "https://VibePixelX.github.io/images/410.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "brainrot-merge-drop-puzzles",
+    "thumbnail": "https://VibePixelX.github.io/images/411.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "stickman-doors-and-island",
+    "thumbnail": "https://VibePixelX.github.io/images/412.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "bolts",
+    "thumbnail": "https://VibePixelX.github.io/images/413.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zombies-battle-for-survival",
+    "thumbnail": "https://VibePixelX.github.io/images/414.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "stick-fight-the-chaos",
+    "thumbnail": "https://VibePixelX.github.io/images/415.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "pictures-riddle",
+    "thumbnail": "https://VibePixelX.github.io/images/416.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "uncle-bullet-007",
+    "thumbnail": "https://VibePixelX.github.io/images/417.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "find-it-out-colorful-book",
+    "thumbnail": "https://VibePixelX.github.io/images/418.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "lol-funny-dance",
+    "thumbnail": "https://VibePixelX.github.io/images/419.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "shoot-and-drive",
+    "thumbnail": "https://VibePixelX.github.io/images/420.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "letters-match",
+    "thumbnail": "https://VibePixelX.github.io/images/421.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "looper",
+    "thumbnail": "https://VibePixelX.github.io/images/422.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mega-ramp-car",
+    "thumbnail": "https://VibePixelX.github.io/images/423.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "clicker-hero",
+    "thumbnail": "https://VibePixelX.github.io/images/424.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "tap-block-puzzle-smash-game",
+    "thumbnail": "https://VibePixelX.github.io/images/425.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hexon-rush",
+    "thumbnail": "https://VibePixelX.github.io/images/426.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ships-3d-io",
+    "thumbnail": "https://VibePixelX.github.io/images/427.webp",
+    "genre": "Shooter, .IO"
+  },
+  {
+    "id": "motor-tour",
+    "thumbnail": "https://VibePixelX.github.io/images/428.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "candy-chain-master",
+    "thumbnail": "https://VibePixelX.github.io/images/429.webp",
+    "genre": "Agility, Match-3"
+  },
+  {
+    "id": "fnf-2-player",
+    "thumbnail": "https://VibePixelX.github.io/images/430.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "idle-dice-3d-incremental-game",
+    "thumbnail": "https://VibePixelX.github.io/images/431.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sort-puzzle-nuts-and-bolts",
+    "thumbnail": "https://VibePixelX.github.io/images/432.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cool-supercars-stunts-pvp",
+    "thumbnail": "https://VibePixelX.github.io/images/433.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "kitkat-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/434.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "my-fire-station-world",
+    "thumbnail": "https://VibePixelX.github.io/images/435.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "2048-run-gorgeous-balls",
+    "thumbnail": "https://VibePixelX.github.io/images/436.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "diamond-mosaic",
+    "thumbnail": "https://VibePixelX.github.io/images/437.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "hotgear",
+    "thumbnail": "https://VibePixelX.github.io/images/438.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "bubble-shooter-crystal-hunt",
+    "thumbnail": "https://VibePixelX.github.io/images/439.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "the-flowers-merge-and-sell-bouquets",
+    "thumbnail": "https://VibePixelX.github.io/images/440.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "people-playground-ragdoll-battle",
+    "thumbnail": "https://VibePixelX.github.io/images/441.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "blade-forge-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/442.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "asmr-water-vs-fire",
+    "thumbnail": "https://VibePixelX.github.io/images/443.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "obby-pinata-party",
+    "thumbnail": "https://VibePixelX.github.io/images/444.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "graduation-makeup-trends",
+    "thumbnail": "https://VibePixelX.github.io/images/445.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "luxury-highway-cars",
+    "thumbnail": "https://VibePixelX.github.io/images/446.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "hole-digger",
+    "thumbnail": "https://VibePixelX.github.io/images/447.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "my-cake-shop-bake-serve",
+    "thumbnail": "https://VibePixelX.github.io/images/448.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "fruit-jam-master",
+    "thumbnail": "https://VibePixelX.github.io/images/449.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "bark-blast",
+    "thumbnail": "https://VibePixelX.github.io/images/450.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "scary-baby-yellow-game",
+    "thumbnail": "https://VibePixelX.github.io/images/451.webp",
+    "genre": "Agility, Simulation"
+  },
+  {
+    "id": "dead-zone-mech-ops",
+    "thumbnail": "https://VibePixelX.github.io/images/452.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "blockpuzzle-color-blast",
+    "thumbnail": "https://VibePixelX.github.io/images/453.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-climb-racing",
+    "thumbnail": "https://VibePixelX.github.io/images/454.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "super-kid-adventure",
+    "thumbnail": "https://VibePixelX.github.io/images/455.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "formula-racers",
+    "thumbnail": "https://VibePixelX.github.io/images/456.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "block-dropping-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/457.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "sorting-frogs",
+    "thumbnail": "https://VibePixelX.github.io/images/458.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dta-2-maniac",
+    "thumbnail": "https://VibePixelX.github.io/images/459.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "wacky-strike",
+    "thumbnail": "https://VibePixelX.github.io/images/460.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "mobile-phone-case-design-diy",
+    "thumbnail": "https://VibePixelX.github.io/images/461.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mega-ramps-ultimate-car-races",
+    "thumbnail": "https://VibePixelX.github.io/images/462.webp",
+    "genre": "Racing & Driving, .IO"
+  },
+  {
+    "id": "relaxing-cubes-and-campfire",
+    "thumbnail": "https://VibePixelX.github.io/images/463.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "labubu-jetpack-rush",
+    "thumbnail": "https://VibePixelX.github.io/images/464.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "super-sprunki-clicker",
+    "thumbnail": "https://VibePixelX.github.io/images/465.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "jewelry-idle",
+    "thumbnail": "https://VibePixelX.github.io/images/466.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "europe-at-war",
+    "thumbnail": "https://VibePixelX.github.io/images/467.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "noob-ragdoll-crazy-punch",
+    "thumbnail": "https://VibePixelX.github.io/images/468.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "number-tubes",
+    "thumbnail": "https://VibePixelX.github.io/images/469.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mine-2d-survival-herobrine",
+    "thumbnail": "https://VibePixelX.github.io/images/470.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fortunes-deck-solitaire",
+    "thumbnail": "https://VibePixelX.github.io/images/471.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "happy-egg-catch",
+    "thumbnail": "https://VibePixelX.github.io/images/472.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cars-derby-arena",
+    "thumbnail": "https://VibePixelX.github.io/images/473.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "battle-simulator-sandbox",
+    "thumbnail": "https://VibePixelX.github.io/images/474.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "countryside-truck-drive",
+    "thumbnail": "https://VibePixelX.github.io/images/475.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "children-happy-farm-dudu",
+    "thumbnail": "https://VibePixelX.github.io/images/476.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "golf-orbit",
+    "thumbnail": "https://VibePixelX.github.io/images/477.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "gun-racing",
+    "thumbnail": "https://VibePixelX.github.io/images/478.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "help-the-duck",
+    "thumbnail": "https://VibePixelX.github.io/images/479.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ragdoll-bounce",
+    "thumbnail": "https://VibePixelX.github.io/images/480.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "pops-quest",
+    "thumbnail": "https://VibePixelX.github.io/images/481.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "mermaidcore-aesthetics",
+    "thumbnail": "https://VibePixelX.github.io/images/482.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "dungeon-master-cult-craft",
+    "thumbnail": "https://VibePixelX.github.io/images/483.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "just-dice-random-tower-defence",
+    "thumbnail": "https://VibePixelX.github.io/images/484.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "shape-shifting",
+    "thumbnail": "https://VibePixelX.github.io/images/485.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "serious-bro",
+    "thumbnail": "https://VibePixelX.github.io/images/486.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "fruit-mahjong-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/487.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "obby-escape-barrys-jail-parkour",
+    "thumbnail": "https://VibePixelX.github.io/images/488.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "komaru-cat",
+    "thumbnail": "https://VibePixelX.github.io/images/489.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "idle-inventor",
+    "thumbnail": "https://VibePixelX.github.io/images/490.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "garden-guardians",
+    "thumbnail": "https://VibePixelX.github.io/images/491.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-tower-parkour-climb",
+    "thumbnail": "https://VibePixelX.github.io/images/492.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bolts-and-nuts-sorting",
+    "thumbnail": "https://VibePixelX.github.io/images/493.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "monster-slayers",
+    "thumbnail": "https://VibePixelX.github.io/images/494.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "bunnyhop-and-surf-maps",
+    "thumbnail": "https://VibePixelX.github.io/images/495.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "cards-2048",
+    "thumbnail": "https://VibePixelX.github.io/images/496.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "ride-shooter",
+    "thumbnail": "https://VibePixelX.github.io/images/497.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "twinkle-shooter",
+    "thumbnail": "https://VibePixelX.github.io/images/498.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "wild-west-match",
+    "thumbnail": "https://VibePixelX.github.io/images/499.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "goodeluxe",
+    "thumbnail": "https://VibePixelX.github.io/images/500.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "cube-combo",
+    "thumbnail": "https://VibePixelX.github.io/images/501.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "badlands-hero",
+    "thumbnail": "https://VibePixelX.github.io/images/502.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "gt-cars-mega-ramps",
+    "thumbnail": "https://VibePixelX.github.io/images/503.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "dragon-egg",
+    "thumbnail": "https://VibePixelX.github.io/images/504.webp",
+    "genre": "Boardgames, Merge"
+  },
+  {
+    "id": "family-tree-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/505.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pixel-mini-golf",
+    "thumbnail": "https://VibePixelX.github.io/images/506.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "freecell-solitaire",
+    "thumbnail": "https://VibePixelX.github.io/images/507.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "ultimate-sports-car-drift",
+    "thumbnail": "https://VibePixelX.github.io/images/508.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "bff-lovely-kawaii-outfits",
+    "thumbnail": "https://VibePixelX.github.io/images/509.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "tiny-cars",
+    "thumbnail": "https://VibePixelX.github.io/images/510.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "arrow-escape-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/511.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "the-office-escape",
+    "thumbnail": "https://VibePixelX.github.io/images/512.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "vehicle-fun-race",
+    "thumbnail": "https://VibePixelX.github.io/images/513.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "jewels-blitz-legends",
+    "thumbnail": "https://VibePixelX.github.io/images/514.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bow-and-arrow",
+    "thumbnail": "https://VibePixelX.github.io/images/515.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "zombie-outbreak-survive",
+    "thumbnail": "https://VibePixelX.github.io/images/516.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "human-evolution-run",
+    "thumbnail": "https://VibePixelX.github.io/images/517.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "fun-sorting-through-the-shelves",
+    "thumbnail": "https://VibePixelX.github.io/images/518.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "world-cup-2026-soccer-game",
+    "thumbnail": "https://VibePixelX.github.io/images/519.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "smoke-trail",
+    "thumbnail": "https://VibePixelX.github.io/images/520.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "seafaring-memory-challenge",
+    "thumbnail": "https://VibePixelX.github.io/images/521.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "super-dog-hero-dash",
+    "thumbnail": "https://VibePixelX.github.io/images/522.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "suika-watermelon-drop",
+    "thumbnail": "https://VibePixelX.github.io/images/523.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "savage-defenders",
+    "thumbnail": "https://VibePixelX.github.io/images/524.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "gt-drift-most-wanted",
+    "thumbnail": "https://VibePixelX.github.io/images/525.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "ultimate-tower-defense",
+    "thumbnail": "https://VibePixelX.github.io/images/526.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "block-sniper",
+    "thumbnail": "https://VibePixelX.github.io/images/527.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "ice-cream-inc",
+    "thumbnail": "https://VibePixelX.github.io/images/528.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "block-puzzle-frozen-jewel",
+    "thumbnail": "https://VibePixelX.github.io/images/529.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "world-z-defense-zombie-defense",
+    "thumbnail": "https://VibePixelX.github.io/images/530.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "funny-walk-fail-run",
+    "thumbnail": "https://VibePixelX.github.io/images/531.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "sprunki-link",
+    "thumbnail": "https://VibePixelX.github.io/images/532.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-galaxy",
+    "thumbnail": "https://VibePixelX.github.io/images/533.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "missile-launch-master",
+    "thumbnail": "https://VibePixelX.github.io/images/534.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "shop-sorting-xmas",
+    "thumbnail": "https://VibePixelX.github.io/images/535.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "grenade-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/536.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "turbo-race-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/537.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "dynamons-8",
+    "thumbnail": "https://VibePixelX.github.io/images/538.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "diamondz",
+    "thumbnail": "https://VibePixelX.github.io/images/539.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "metro-escape",
+    "thumbnail": "https://VibePixelX.github.io/images/540.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "idle-casino-manager-tycoon",
+    "thumbnail": "https://VibePixelX.github.io/images/541.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "guinea-piggy-matching",
+    "thumbnail": "https://VibePixelX.github.io/images/542.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "chibi-doll-coloring-dress-up",
+    "thumbnail": "https://VibePixelX.github.io/images/543.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "mushroom-fever-match-3",
+    "thumbnail": "https://VibePixelX.github.io/images/544.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "merge-cubes-2048-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/545.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "angry-flappy",
+    "thumbnail": "https://VibePixelX.github.io/images/546.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "jewel-miner-quest",
+    "thumbnail": "https://VibePixelX.github.io/images/547.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "table-tennis-open",
+    "thumbnail": "https://VibePixelX.github.io/images/548.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "the-bodyguard",
+    "thumbnail": "https://VibePixelX.github.io/images/549.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "sniper-master",
+    "thumbnail": "https://VibePixelX.github.io/images/550.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "wednesday-addams-beauty-salon",
+    "thumbnail": "https://VibePixelX.github.io/images/551.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "celebrity-spring-fashion-trends",
+    "thumbnail": "https://VibePixelX.github.io/images/552.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "my-cottagecore-aesthetic-look",
+    "thumbnail": "https://VibePixelX.github.io/images/553.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bubble-shooter-candy-wheel-level-pack",
+    "thumbnail": "https://VibePixelX.github.io/images/554.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "sprunky-incredibox-mods",
+    "thumbnail": "https://VibePixelX.github.io/images/555.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "word-art-color-book-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/556.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "majestic-dragons-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/557.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "sisyphus-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/558.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "two-dots-remastered",
+    "thumbnail": "https://VibePixelX.github.io/images/559.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "winter-maze",
+    "thumbnail": "https://VibePixelX.github.io/images/560.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "find-the-vampire",
+    "thumbnail": "https://VibePixelX.github.io/images/561.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "asmr-beauty-treatment",
+    "thumbnail": "https://VibePixelX.github.io/images/562.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "daycare-tycoon",
+    "thumbnail": "https://VibePixelX.github.io/images/563.webp",
+    "genre": "Educational, Simulation"
+  },
+  {
+    "id": "poppy-playtime-3-game",
+    "thumbnail": "https://VibePixelX.github.io/images/564.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "sweet-triple-mahjong",
+    "thumbnail": "https://VibePixelX.github.io/images/565.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "superhero-drop-and-save",
+    "thumbnail": "https://VibePixelX.github.io/images/566.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "geometry-stars",
+    "thumbnail": "https://VibePixelX.github.io/images/567.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "bitball",
+    "thumbnail": "https://VibePixelX.github.io/images/568.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "frogio",
+    "thumbnail": "https://VibePixelX.github.io/images/569.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "travel-mahjong-deluxe",
+    "thumbnail": "https://VibePixelX.github.io/images/570.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "ultra-realistic-blockcraft",
+    "thumbnail": "https://VibePixelX.github.io/images/571.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cute-craft-lab",
+    "thumbnail": "https://VibePixelX.github.io/images/572.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "eq-test-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/573.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pinball-basketball",
+    "thumbnail": "https://VibePixelX.github.io/images/574.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "my-purrfect-cat-hotel",
+    "thumbnail": "https://VibePixelX.github.io/images/575.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "hide-and-build-a-bridge",
+    "thumbnail": "https://VibePixelX.github.io/images/576.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "kingdom-cats",
+    "thumbnail": "https://VibePixelX.github.io/images/577.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "live-star-doll-dress-up",
+    "thumbnail": "https://VibePixelX.github.io/images/578.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "bubble-shooter-hd-3",
+    "thumbnail": "https://VibePixelX.github.io/images/579.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "pirate-noob-apocalypse",
+    "thumbnail": "https://VibePixelX.github.io/images/580.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "knife-master-ball-racing",
+    "thumbnail": "https://VibePixelX.github.io/images/581.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "blue-vs-red",
+    "thumbnail": "https://VibePixelX.github.io/images/582.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "ballistic-breakthrough",
+    "thumbnail": "https://VibePixelX.github.io/images/583.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "riders-downhill-racing",
+    "thumbnail": "https://VibePixelX.github.io/images/584.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "brotherfollow-me-merge-men",
+    "thumbnail": "https://VibePixelX.github.io/images/585.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "seat-puzzle-cut-the-rope",
+    "thumbnail": "https://VibePixelX.github.io/images/586.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cat-football",
+    "thumbnail": "https://VibePixelX.github.io/images/587.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "stickman-rogue-online",
+    "thumbnail": "https://VibePixelX.github.io/images/588.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "colors-runners",
+    "thumbnail": "https://VibePixelX.github.io/images/589.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "basket-swap",
+    "thumbnail": "https://VibePixelX.github.io/images/590.webp",
+    "genre": "Puzzle, Basketball"
+  },
+  {
+    "id": "art-salon",
+    "thumbnail": "https://VibePixelX.github.io/images/591.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "color-conquest-territory-war",
+    "thumbnail": "https://VibePixelX.github.io/images/592.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "agents-io",
+    "thumbnail": "https://VibePixelX.github.io/images/593.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "crazy-screw-king",
+    "thumbnail": "https://VibePixelX.github.io/images/594.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "insta-trends-galaxy-fashion",
+    "thumbnail": "https://VibePixelX.github.io/images/595.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "fishing-bear",
+    "thumbnail": "https://VibePixelX.github.io/images/596.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "yummy-tales-3",
+    "thumbnail": "https://VibePixelX.github.io/images/597.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cubica",
+    "thumbnail": "https://VibePixelX.github.io/images/598.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "idle-town-billionaire",
+    "thumbnail": "https://VibePixelX.github.io/images/599.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mojo-emoji",
+    "thumbnail": "https://VibePixelX.github.io/images/600.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kitty-match-3-puzzle-game",
+    "thumbnail": "https://VibePixelX.github.io/images/601.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zombie-driver",
+    "thumbnail": "https://VibePixelX.github.io/images/602.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "valley-of-wolves-ambush",
+    "thumbnail": "https://VibePixelX.github.io/images/603.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "word-search-with-hints",
+    "thumbnail": "https://VibePixelX.github.io/images/604.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "thor-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/605.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "real-freekick-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/606.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "fruit-match",
+    "thumbnail": "https://VibePixelX.github.io/images/607.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "save-my-hero",
+    "thumbnail": "https://VibePixelX.github.io/images/608.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "guess-the-italian-brainrot-animals",
+    "thumbnail": "https://VibePixelX.github.io/images/609.webp",
+    "genre": "Casual, Quiz"
+  },
+  {
+    "id": "code-maze",
+    "thumbnail": "https://VibePixelX.github.io/images/610.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mojicon-spring-connect",
+    "thumbnail": "https://VibePixelX.github.io/images/611.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "triple-tile-twister-match-game",
+    "thumbnail": "https://VibePixelX.github.io/images/612.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "home-block-story",
+    "thumbnail": "https://VibePixelX.github.io/images/613.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "black-pink-stpatricks-day-concert",
+    "thumbnail": "https://VibePixelX.github.io/images/614.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "2-3-4-player-games",
+    "thumbnail": "https://VibePixelX.github.io/images/615.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "cat-cut",
+    "thumbnail": "https://VibePixelX.github.io/images/616.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "red-escape",
+    "thumbnail": "https://VibePixelX.github.io/images/617.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "safe-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/618.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "super-slime",
+    "thumbnail": "https://VibePixelX.github.io/images/619.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "venetian-love-affair",
+    "thumbnail": "https://VibePixelX.github.io/images/620.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "truck-simulator-arcade-championship",
+    "thumbnail": "https://VibePixelX.github.io/images/621.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "words-with-prof-wisely",
+    "thumbnail": "https://VibePixelX.github.io/images/622.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "make-america-great-again",
+    "thumbnail": "https://VibePixelX.github.io/images/623.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "wipe-insight-master",
+    "thumbnail": "https://VibePixelX.github.io/images/624.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-run-battle",
+    "thumbnail": "https://VibePixelX.github.io/images/625.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "stickman-miners-wars",
+    "thumbnail": "https://VibePixelX.github.io/images/626.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "draw-bridge-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/627.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fierce-battle-breakout",
+    "thumbnail": "https://VibePixelX.github.io/images/628.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "soo-match-room-design",
+    "thumbnail": "https://VibePixelX.github.io/images/629.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bubble-shooter-wonders-of-egypt",
+    "thumbnail": "https://VibePixelX.github.io/images/630.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "level-up-mutants",
+    "thumbnail": "https://VibePixelX.github.io/images/631.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "grannys-classroom-nightmare",
+    "thumbnail": "https://VibePixelX.github.io/images/632.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "block-breaker",
+    "thumbnail": "https://VibePixelX.github.io/images/633.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "clap-clap-nightmare",
+    "thumbnail": "https://VibePixelX.github.io/images/634.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "jixora-jigsaw-solitaire-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/635.webp",
+    "genre": "Jigsaw, Strategy"
+  },
+  {
+    "id": "football-legends-2026",
+    "thumbnail": "https://VibePixelX.github.io/images/636.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "stick-hero-battle",
+    "thumbnail": "https://VibePixelX.github.io/images/637.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "hill-climbing-mania",
+    "thumbnail": "https://VibePixelX.github.io/images/638.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "tile-match-the-immersive-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/639.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "car-park-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/640.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "nitro-speed-car-racing",
+    "thumbnail": "https://VibePixelX.github.io/images/641.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "merge-food-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/642.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "stealth-master-sneak-cat",
+    "thumbnail": "https://VibePixelX.github.io/images/643.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "hopnova",
+    "thumbnail": "https://VibePixelX.github.io/images/644.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "thats-my-seat",
+    "thumbnail": "https://VibePixelX.github.io/images/645.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "scary-shawarma-kiosk-the-anomaly",
+    "thumbnail": "https://VibePixelX.github.io/images/646.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "devs-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/647.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "vex-x3m",
+    "thumbnail": "https://VibePixelX.github.io/images/648.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "geometry-dash-maze-maps-v2",
+    "thumbnail": "https://VibePixelX.github.io/images/649.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "kingdom-wars-td",
+    "thumbnail": "https://VibePixelX.github.io/images/650.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "easter-shadow-match",
+    "thumbnail": "https://VibePixelX.github.io/images/651.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "wordmeister-hd",
+    "thumbnail": "https://VibePixelX.github.io/images/652.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "goods-sorting-shopping-master",
+    "thumbnail": "https://VibePixelX.github.io/images/653.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "classic-mahjong",
+    "thumbnail": "https://VibePixelX.github.io/images/654.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "lambo-traffic-racer",
+    "thumbnail": "https://VibePixelX.github.io/images/655.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ole-bunny",
+    "thumbnail": "https://VibePixelX.github.io/images/656.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "chibi-doll-avatar-creator",
+    "thumbnail": "https://VibePixelX.github.io/images/657.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "tap-bead",
+    "thumbnail": "https://VibePixelX.github.io/images/658.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "small-wardrobe",
+    "thumbnail": "https://VibePixelX.github.io/images/659.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "colossatron",
+    "thumbnail": "https://VibePixelX.github.io/images/660.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "atomic-merge-2048",
+    "thumbnail": "https://VibePixelX.github.io/images/661.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "bubble-letters",
+    "thumbnail": "https://VibePixelX.github.io/images/662.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dalgona-master",
+    "thumbnail": "https://VibePixelX.github.io/images/663.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "italian-brainrot-find-the-stars",
+    "thumbnail": "https://VibePixelX.github.io/images/664.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "larry-world",
+    "thumbnail": "https://VibePixelX.github.io/images/665.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "egg-adventure-2",
+    "thumbnail": "https://VibePixelX.github.io/images/666.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "math-runner",
+    "thumbnail": "https://VibePixelX.github.io/images/667.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "party-games-mini-shooter-battle",
+    "thumbnail": "https://VibePixelX.github.io/images/668.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "brainrot-ice-truck",
+    "thumbnail": "https://VibePixelX.github.io/images/669.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "battle-racing-stars",
+    "thumbnail": "https://VibePixelX.github.io/images/670.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "wood-nuts-master-screw-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/671.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stunt-fury",
+    "thumbnail": "https://VibePixelX.github.io/images/672.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "sea-battle-admiral",
+    "thumbnail": "https://VibePixelX.github.io/images/673.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "cookie-monster",
+    "thumbnail": "https://VibePixelX.github.io/images/674.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gross-out-run",
+    "thumbnail": "https://VibePixelX.github.io/images/675.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ninja-survivor",
+    "thumbnail": "https://VibePixelX.github.io/images/676.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "chrome-cars-garage",
+    "thumbnail": "https://VibePixelX.github.io/images/677.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "castle-craft",
+    "thumbnail": "https://VibePixelX.github.io/images/678.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "bolts-and-nuts",
+    "thumbnail": "https://VibePixelX.github.io/images/679.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "popcorn-stack",
+    "thumbnail": "https://VibePixelX.github.io/images/680.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sky-block-bounce",
+    "thumbnail": "https://VibePixelX.github.io/images/681.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "magic-finger",
+    "thumbnail": "https://VibePixelX.github.io/images/682.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mermaidcore-makeup",
+    "thumbnail": "https://VibePixelX.github.io/images/683.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "turbo-car-track",
+    "thumbnail": "https://VibePixelX.github.io/images/684.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "sorcerer-mahjong-marvels",
+    "thumbnail": "https://VibePixelX.github.io/images/685.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "bus-collect",
+    "thumbnail": "https://VibePixelX.github.io/images/686.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mahjong-solitaire-zodiac",
+    "thumbnail": "https://VibePixelX.github.io/images/687.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "vr-world",
+    "thumbnail": "https://VibePixelX.github.io/images/688.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "farm-blast",
+    "thumbnail": "https://VibePixelX.github.io/images/689.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "age-of-apes-run",
+    "thumbnail": "https://VibePixelX.github.io/images/690.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "superheroes-and-the-wand",
+    "thumbnail": "https://VibePixelX.github.io/images/691.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "freecell",
+    "thumbnail": "https://VibePixelX.github.io/images/692.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "labubu-and-treasures-fun-adventure",
+    "thumbnail": "https://VibePixelX.github.io/images/693.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mahjong-lines",
+    "thumbnail": "https://VibePixelX.github.io/images/694.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "tony-archer",
+    "thumbnail": "https://VibePixelX.github.io/images/695.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "winter-mahjong",
+    "thumbnail": "https://VibePixelX.github.io/images/696.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "grand-theft-ny",
+    "thumbnail": "https://VibePixelX.github.io/images/697.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "falling-blocks-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/698.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "daily-match",
+    "thumbnail": "https://VibePixelX.github.io/images/699.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "candy-jewels",
+    "thumbnail": "https://VibePixelX.github.io/images/700.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cryptogram",
+    "thumbnail": "https://VibePixelX.github.io/images/701.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "slope-spooky",
+    "thumbnail": "https://VibePixelX.github.io/images/702.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "minecraft-battle-party",
+    "thumbnail": "https://VibePixelX.github.io/images/703.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "relax-mini-games-collection",
+    "thumbnail": "https://VibePixelX.github.io/images/704.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "supermarket-cashier-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/705.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "jailbreak-assault",
+    "thumbnail": "https://VibePixelX.github.io/images/706.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "shadowman-runner",
+    "thumbnail": "https://VibePixelX.github.io/images/707.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fashion-stylist-salon-makeover",
+    "thumbnail": "https://VibePixelX.github.io/images/708.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "spring-tile-master",
+    "thumbnail": "https://VibePixelX.github.io/images/709.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "rich-choice-run",
+    "thumbnail": "https://VibePixelX.github.io/images/710.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "geometry-wave-hero",
+    "thumbnail": "https://VibePixelX.github.io/images/711.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "tile-sort-match-3",
+    "thumbnail": "https://VibePixelX.github.io/images/712.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "steal-brainrot-monsters",
+    "thumbnail": "https://VibePixelX.github.io/images/713.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "amazing-airplane-racer",
+    "thumbnail": "https://VibePixelX.github.io/images/714.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "gt-traffic-racer",
+    "thumbnail": "https://VibePixelX.github.io/images/715.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "digit-shooter",
+    "thumbnail": "https://VibePixelX.github.io/images/716.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "obby-escape-prison-rat-dance",
+    "thumbnail": "https://VibePixelX.github.io/images/717.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "color-bump-dancer",
+    "thumbnail": "https://VibePixelX.github.io/images/718.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "grand-clash-arena",
+    "thumbnail": "https://VibePixelX.github.io/images/719.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "my-arcade-center",
+    "thumbnail": "https://VibePixelX.github.io/images/720.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "hexagon",
+    "thumbnail": "https://VibePixelX.github.io/images/721.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "grow-a-garden-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/722.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "color-rings-block-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/723.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-football-fever",
+    "thumbnail": "https://VibePixelX.github.io/images/724.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "snake-masters",
+    "thumbnail": "https://VibePixelX.github.io/images/725.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "grukkle-onslaught",
+    "thumbnail": "https://VibePixelX.github.io/images/726.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "dark-myth-monkey-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/727.webp",
+    "genre": "Adventure, Merge"
+  },
+  {
+    "id": "twisted-rope",
+    "thumbnail": "https://VibePixelX.github.io/images/728.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "draw-to-smash",
+    "thumbnail": "https://VibePixelX.github.io/images/729.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "capybara-go",
+    "thumbnail": "https://VibePixelX.github.io/images/730.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bus-color-jam",
+    "thumbnail": "https://VibePixelX.github.io/images/731.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "soccer-snakes",
+    "thumbnail": "https://VibePixelX.github.io/images/732.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "g-wagon-city-driver",
+    "thumbnail": "https://VibePixelX.github.io/images/733.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "fireside-solitaire",
+    "thumbnail": "https://VibePixelX.github.io/images/734.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "fish-master-go-fish",
+    "thumbnail": "https://VibePixelX.github.io/images/735.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "people-playground-ragdoll-arena",
+    "thumbnail": "https://VibePixelX.github.io/images/736.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wave-chic-ocean-fashion-frenzy",
+    "thumbnail": "https://VibePixelX.github.io/images/737.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "math-crossword-puzzle-genius-edition",
+    "thumbnail": "https://VibePixelX.github.io/images/738.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "troll-the-teacher",
+    "thumbnail": "https://VibePixelX.github.io/images/739.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "brainrot-boing-boing-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/740.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "beauty-world-and-fashion-stylist",
+    "thumbnail": "https://VibePixelX.github.io/images/741.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "ninja-time",
+    "thumbnail": "https://VibePixelX.github.io/images/742.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "swat-plants-vs-zombies",
+    "thumbnail": "https://VibePixelX.github.io/images/743.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "animal-in-rails",
+    "thumbnail": "https://VibePixelX.github.io/images/744.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "block-digger",
+    "thumbnail": "https://VibePixelX.github.io/images/745.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "digger-fighter-in-the-maze",
+    "thumbnail": "https://VibePixelX.github.io/images/746.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "timewarriors",
+    "thumbnail": "https://VibePixelX.github.io/images/747.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "screw-color-sorting-master",
+    "thumbnail": "https://VibePixelX.github.io/images/748.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "brainrot-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/749.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-rocket",
+    "thumbnail": "https://VibePixelX.github.io/images/750.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "the-sort-agency",
+    "thumbnail": "https://VibePixelX.github.io/images/751.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "idle-firefighter-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/752.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "pubg-hack",
+    "thumbnail": "https://VibePixelX.github.io/images/753.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "egg-dash",
+    "thumbnail": "https://VibePixelX.github.io/images/754.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "tb-avataria-life-girl",
+    "thumbnail": "https://VibePixelX.github.io/images/755.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "royal-family-tree",
+    "thumbnail": "https://VibePixelX.github.io/images/756.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "gmod-bombs",
+    "thumbnail": "https://VibePixelX.github.io/images/757.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "lost-in-the-forest",
+    "thumbnail": "https://VibePixelX.github.io/images/758.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "heroic-knight",
+    "thumbnail": "https://VibePixelX.github.io/images/759.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "idle-restaurant-tycoon",
+    "thumbnail": "https://VibePixelX.github.io/images/760.webp",
+    "genre": "Cooking, Strategy"
+  },
+  {
+    "id": "hexa-stack-christmas",
+    "thumbnail": "https://VibePixelX.github.io/images/761.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "donnes-spinning-world",
+    "thumbnail": "https://VibePixelX.github.io/images/762.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "sprunki-clicker-merge-phase-3",
+    "thumbnail": "https://VibePixelX.github.io/images/763.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "legend-of-fireball",
+    "thumbnail": "https://VibePixelX.github.io/images/764.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bell-madness",
+    "thumbnail": "https://VibePixelX.github.io/images/765.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "sweet-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/766.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "blue-girls-makeup",
+    "thumbnail": "https://VibePixelX.github.io/images/767.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "gelatino",
+    "thumbnail": "https://VibePixelX.github.io/images/768.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "12-in-1-solitaire",
+    "thumbnail": "https://VibePixelX.github.io/images/769.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "italian-brainrot-obby-parkour",
+    "thumbnail": "https://VibePixelX.github.io/images/770.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "block-puzzle-master",
+    "thumbnail": "https://VibePixelX.github.io/images/771.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "infantry-attack-battle-3d-fps",
+    "thumbnail": "https://VibePixelX.github.io/images/772.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "cosmo-pet-starry-care",
+    "thumbnail": "https://VibePixelX.github.io/images/773.webp",
+    "genre": "Adventure, Dress-up"
+  },
+  {
+    "id": "rope-color-sort-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/774.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jewel-dress-up",
+    "thumbnail": "https://VibePixelX.github.io/images/775.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "match-fighter",
+    "thumbnail": "https://VibePixelX.github.io/images/776.webp",
+    "genre": "Battle, Match-3"
+  },
+  {
+    "id": "draw-to-kill",
+    "thumbnail": "https://VibePixelX.github.io/images/777.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ninja-crossword-challenge",
+    "thumbnail": "https://VibePixelX.github.io/images/778.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "legend-of-dragon-hunt",
+    "thumbnail": "https://VibePixelX.github.io/images/779.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "find-6-differences-spot-the-hidden-changes",
+    "thumbnail": "https://VibePixelX.github.io/images/780.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "choo-choo-spider-monster-train",
+    "thumbnail": "https://VibePixelX.github.io/images/781.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "avatar-life-my-town",
+    "thumbnail": "https://VibePixelX.github.io/images/782.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "tow-n-go",
+    "thumbnail": "https://VibePixelX.github.io/images/783.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "happy-jump",
+    "thumbnail": "https://VibePixelX.github.io/images/784.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bffs-y2k-fashion",
+    "thumbnail": "https://VibePixelX.github.io/images/785.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bubble-pop-legend",
+    "thumbnail": "https://VibePixelX.github.io/images/786.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "elytra-flight",
+    "thumbnail": "https://VibePixelX.github.io/images/787.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "geometry-vibes-x-arrow",
+    "thumbnail": "https://VibePixelX.github.io/images/788.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "tag-run",
+    "thumbnail": "https://VibePixelX.github.io/images/789.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "asmr-nail-treatment",
+    "thumbnail": "https://VibePixelX.github.io/images/790.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "red-stickman-vs-craftmans-2",
+    "thumbnail": "https://VibePixelX.github.io/images/791.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "transform-car-battle",
+    "thumbnail": "https://VibePixelX.github.io/images/792.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "block-puzzle-king",
+    "thumbnail": "https://VibePixelX.github.io/images/793.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "port-shipping-tycoon",
+    "thumbnail": "https://VibePixelX.github.io/images/794.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "doodle-dino-run",
+    "thumbnail": "https://VibePixelX.github.io/images/795.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "flower-block",
+    "thumbnail": "https://VibePixelX.github.io/images/796.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "solitaire-mahjong-farm-2",
+    "thumbnail": "https://VibePixelX.github.io/images/797.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "pool-master",
+    "thumbnail": "https://VibePixelX.github.io/images/798.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "color-sort-impostor-edition",
+    "thumbnail": "https://VibePixelX.github.io/images/799.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "3d-match-puzzle-mania",
+    "thumbnail": "https://VibePixelX.github.io/images/800.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "magic-finger-puzzle-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/801.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jumpers-quest",
+    "thumbnail": "https://VibePixelX.github.io/images/802.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "downhill-car-ride-crash-test",
+    "thumbnail": "https://VibePixelX.github.io/images/803.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "circle-shooter-master",
+    "thumbnail": "https://VibePixelX.github.io/images/804.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "vex-x3m-2",
+    "thumbnail": "https://VibePixelX.github.io/images/805.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "train-drift",
+    "thumbnail": "https://VibePixelX.github.io/images/806.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "high-heels-collect-run",
+    "thumbnail": "https://VibePixelX.github.io/images/807.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "picture-puzzles",
+    "thumbnail": "https://VibePixelX.github.io/images/808.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "memory-match-magic",
+    "thumbnail": "https://VibePixelX.github.io/images/809.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "cat-sorter-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/810.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pixel-journey",
+    "thumbnail": "https://VibePixelX.github.io/images/811.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "obby-rainbow-tower",
+    "thumbnail": "https://VibePixelX.github.io/images/812.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "sudoblock-daily",
+    "thumbnail": "https://VibePixelX.github.io/images/813.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "mahjong-garden",
+    "thumbnail": "https://VibePixelX.github.io/images/814.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "candy-pop-mania",
+    "thumbnail": "https://VibePixelX.github.io/images/815.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "traffic-run-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/816.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tictoc-urban-outfits",
+    "thumbnail": "https://VibePixelX.github.io/images/817.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "alchemy-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/818.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jump-to-the-mountain-for-the-brainrots",
+    "thumbnail": "https://VibePixelX.github.io/images/819.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "domino-smash-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/820.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "make-two",
+    "thumbnail": "https://VibePixelX.github.io/images/821.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "battle-island-2",
+    "thumbnail": "https://VibePixelX.github.io/images/822.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "daily-horoscope-hd",
+    "thumbnail": "https://VibePixelX.github.io/images/823.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hexa-sort",
+    "thumbnail": "https://VibePixelX.github.io/images/824.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mermaid-princess-avater-castle",
+    "thumbnail": "https://VibePixelX.github.io/images/825.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "grand-mahjong-connect",
+    "thumbnail": "https://VibePixelX.github.io/images/826.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "party-animals-cats-evolution",
+    "thumbnail": "https://VibePixelX.github.io/images/827.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "toytopia",
+    "thumbnail": "https://VibePixelX.github.io/images/828.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "graffiti-tags-spray-painting",
+    "thumbnail": "https://VibePixelX.github.io/images/829.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "muscle-up-master",
+    "thumbnail": "https://VibePixelX.github.io/images/830.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "makeup-fruits",
+    "thumbnail": "https://VibePixelX.github.io/images/831.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "leap-and-avoid-2",
+    "thumbnail": "https://VibePixelX.github.io/images/832.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "construction-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/833.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "space-pin-master-pull-pin-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/834.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hypermarket-3d-store-cashier",
+    "thumbnail": "https://VibePixelX.github.io/images/835.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "fashion-dye-pro",
+    "thumbnail": "https://VibePixelX.github.io/images/836.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "dino-egg-shooter",
+    "thumbnail": "https://VibePixelX.github.io/images/837.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "reflect-beam-laser-logic",
+    "thumbnail": "https://VibePixelX.github.io/images/838.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jigsolitaire",
+    "thumbnail": "https://VibePixelX.github.io/images/839.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-sort-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/840.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "organize-it",
+    "thumbnail": "https://VibePixelX.github.io/images/841.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "word-search-universe",
+    "thumbnail": "https://VibePixelX.github.io/images/842.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "epic-car-stunt-race-obby",
+    "thumbnail": "https://VibePixelX.github.io/images/843.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "associations",
+    "thumbnail": "https://VibePixelX.github.io/images/844.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "drunk-man-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/845.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "hexa-block-honey-cells",
+    "thumbnail": "https://VibePixelX.github.io/images/846.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cross-the-road",
+    "thumbnail": "https://VibePixelX.github.io/images/847.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "fire-truck-driving-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/848.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "maze-escape-toilet-rush",
+    "thumbnail": "https://VibePixelX.github.io/images/849.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bus-parking-out",
+    "thumbnail": "https://VibePixelX.github.io/images/850.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "giant-crowd-io-house-capture",
+    "thumbnail": "https://VibePixelX.github.io/images/851.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "giant-wanted-monster",
+    "thumbnail": "https://VibePixelX.github.io/images/852.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "backgammon-duel",
+    "thumbnail": "https://VibePixelX.github.io/images/853.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "idle-baseball-tycoon",
+    "thumbnail": "https://VibePixelX.github.io/images/854.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "cake-sort",
+    "thumbnail": "https://VibePixelX.github.io/images/855.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hexa-sort-master",
+    "thumbnail": "https://VibePixelX.github.io/images/856.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "word-stars",
+    "thumbnail": "https://VibePixelX.github.io/images/857.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kingdom-match",
+    "thumbnail": "https://VibePixelX.github.io/images/858.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mojicon-winter-connect",
+    "thumbnail": "https://VibePixelX.github.io/images/859.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "dress-princess",
+    "thumbnail": "https://VibePixelX.github.io/images/860.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "color-match-amg",
+    "thumbnail": "https://VibePixelX.github.io/images/861.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sky-riders-buk",
+    "thumbnail": "https://VibePixelX.github.io/images/862.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pet-tile-master",
+    "thumbnail": "https://VibePixelX.github.io/images/863.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "my-dogy-virtual-pet",
+    "thumbnail": "https://VibePixelX.github.io/images/864.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "idle-egg-farmer",
+    "thumbnail": "https://VibePixelX.github.io/images/865.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "boxing-fighter",
+    "thumbnail": "https://VibePixelX.github.io/images/866.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "thumbpinball",
+    "thumbnail": "https://VibePixelX.github.io/images/867.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-football-soccer-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/868.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "yoga-master",
+    "thumbnail": "https://VibePixelX.github.io/images/869.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "space-survival-rainbow-friends-monster",
+    "thumbnail": "https://VibePixelX.github.io/images/870.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "the-lost-city-match-3",
+    "thumbnail": "https://VibePixelX.github.io/images/871.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "ragdoll-mega-dunk",
+    "thumbnail": "https://VibePixelX.github.io/images/872.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "riot-village",
+    "thumbnail": "https://VibePixelX.github.io/images/873.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "home-pin-2",
+    "thumbnail": "https://VibePixelX.github.io/images/874.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "slime-farm",
+    "thumbnail": "https://VibePixelX.github.io/images/875.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "v-and-n-pizza-cooking-game",
+    "thumbnail": "https://VibePixelX.github.io/images/876.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "rainbow-balls-2048",
+    "thumbnail": "https://VibePixelX.github.io/images/877.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "happy-bubbles",
+    "thumbnail": "https://VibePixelX.github.io/images/878.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "brawl-stars",
+    "thumbnail": "https://VibePixelX.github.io/images/879.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "tralala-la-la-la-italiano",
+    "thumbnail": "https://VibePixelX.github.io/images/880.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-object-adventure",
+    "thumbnail": "https://VibePixelX.github.io/images/881.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "paper-doll-diary-dress-up-diy",
+    "thumbnail": "https://VibePixelX.github.io/images/882.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "soccer-arena-x",
+    "thumbnail": "https://VibePixelX.github.io/images/883.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "capybara-coin-master",
+    "thumbnail": "https://VibePixelX.github.io/images/884.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "butterfly-triple",
+    "thumbnail": "https://VibePixelX.github.io/images/885.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "glossy-bubbles-challenge",
+    "thumbnail": "https://VibePixelX.github.io/images/886.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "skillwarz",
+    "thumbnail": "https://VibePixelX.github.io/images/887.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "emoji-sort-fun-puzzle-game",
+    "thumbnail": "https://VibePixelX.github.io/images/888.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "garden-block-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/889.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "headleg-dash-parkour",
+    "thumbnail": "https://VibePixelX.github.io/images/890.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pinball-vs-zombie",
+    "thumbnail": "https://VibePixelX.github.io/images/891.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "super-stock-stack",
+    "thumbnail": "https://VibePixelX.github.io/images/892.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "hydraulic-press-2d-asmr",
+    "thumbnail": "https://VibePixelX.github.io/images/893.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "toy-claw-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/894.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "dino-digg",
+    "thumbnail": "https://VibePixelX.github.io/images/895.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bubble-shooter-panda-blast",
+    "thumbnail": "https://VibePixelX.github.io/images/896.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "prism-match-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/897.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "plane-crash-ragdoll-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/898.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "katana",
+    "thumbnail": "https://VibePixelX.github.io/images/899.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "snow-rush-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/900.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "obby-the-legendary-dragon",
+    "thumbnail": "https://VibePixelX.github.io/images/901.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "math-box-balance",
+    "thumbnail": "https://VibePixelX.github.io/images/902.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "bubble-shooter-pro-4",
+    "thumbnail": "https://VibePixelX.github.io/images/903.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "night-city-racing",
+    "thumbnail": "https://VibePixelX.github.io/images/904.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "save-the-beauty",
+    "thumbnail": "https://VibePixelX.github.io/images/905.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brick-game-classic",
+    "thumbnail": "https://VibePixelX.github.io/images/906.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "flowball",
+    "thumbnail": "https://VibePixelX.github.io/images/907.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "single-stroke-energy-line-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/908.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "drive-in-cinema-idle-game",
+    "thumbnail": "https://VibePixelX.github.io/images/909.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mafia-roulette",
+    "thumbnail": "https://VibePixelX.github.io/images/910.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "fun-iq-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/911.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "rummy-500-card-game",
+    "thumbnail": "https://VibePixelX.github.io/images/912.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "screw-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/913.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brawl-stars-battle",
+    "thumbnail": "https://VibePixelX.github.io/images/914.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "jewel-legend-quest",
+    "thumbnail": "https://VibePixelX.github.io/images/915.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "prsino",
+    "thumbnail": "https://VibePixelX.github.io/images/916.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bullet-force-multiplayer",
+    "thumbnail": "https://VibePixelX.github.io/images/917.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hexa-sort-trick-or-treat",
+    "thumbnail": "https://VibePixelX.github.io/images/918.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fruitsland-escape-from-the-amusement-park",
+    "thumbnail": "https://VibePixelX.github.io/images/919.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "hoard-master",
+    "thumbnail": "https://VibePixelX.github.io/images/920.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-2048-cake",
+    "thumbnail": "https://VibePixelX.github.io/images/921.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "blocksss",
+    "thumbnail": "https://VibePixelX.github.io/images/922.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "antistress-relaxation-box",
+    "thumbnail": "https://VibePixelX.github.io/images/923.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "star-attack-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/924.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "purrfect-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/925.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ship-parking-game",
+    "thumbnail": "https://VibePixelX.github.io/images/926.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nuts-bolts-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/927.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "pixel-flow",
+    "thumbnail": "https://VibePixelX.github.io/images/928.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "counter-craft-sniper",
+    "thumbnail": "https://VibePixelX.github.io/images/929.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "space-craft-ship-war",
+    "thumbnail": "https://VibePixelX.github.io/images/930.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "solitaire-story-tripeaks-5",
+    "thumbnail": "https://VibePixelX.github.io/images/931.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "money-ping-pong",
+    "thumbnail": "https://VibePixelX.github.io/images/932.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "war-of-gun",
+    "thumbnail": "https://VibePixelX.github.io/images/933.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "muki-wizard",
+    "thumbnail": "https://VibePixelX.github.io/images/934.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "build-your-aquarium",
+    "thumbnail": "https://VibePixelX.github.io/images/935.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gods-mixer",
+    "thumbnail": "https://VibePixelX.github.io/images/936.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "base-jump-wingsuit-flying",
+    "thumbnail": "https://VibePixelX.github.io/images/937.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "island-expander",
+    "thumbnail": "https://VibePixelX.github.io/images/938.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "luna-and-the-magic-maze",
+    "thumbnail": "https://VibePixelX.github.io/images/939.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nesting-dolls",
+    "thumbnail": "https://VibePixelX.github.io/images/940.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "robot-transform-race",
+    "thumbnail": "https://VibePixelX.github.io/images/941.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "christmas-candy-escape-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/942.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "satisdom",
+    "thumbnail": "https://VibePixelX.github.io/images/943.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "mahjong-quest-candyland-adventures",
+    "thumbnail": "https://VibePixelX.github.io/images/944.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "go-to-zero",
+    "thumbnail": "https://VibePixelX.github.io/images/945.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "connect-balls-new-year-puzzles",
+    "thumbnail": "https://VibePixelX.github.io/images/946.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "limited-defense",
+    "thumbnail": "https://VibePixelX.github.io/images/947.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "mahjong-stack",
+    "thumbnail": "https://VibePixelX.github.io/images/948.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "stickman-warrior-way",
+    "thumbnail": "https://VibePixelX.github.io/images/949.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "snake-hunter",
+    "thumbnail": "https://VibePixelX.github.io/images/950.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "panda-kitchen-idle-tycoon",
+    "thumbnail": "https://VibePixelX.github.io/images/951.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "connect-2-cars",
+    "thumbnail": "https://VibePixelX.github.io/images/952.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "cat-life-simulator-devil-cat",
+    "thumbnail": "https://VibePixelX.github.io/images/953.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "easter-eggventure",
+    "thumbnail": "https://VibePixelX.github.io/images/954.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "deadly-descent-bzs",
+    "thumbnail": "https://VibePixelX.github.io/images/955.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "save-the-bees",
+    "thumbnail": "https://VibePixelX.github.io/images/956.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "yes-or-no-challenge-run",
+    "thumbnail": "https://VibePixelX.github.io/images/957.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "flower-sort",
+    "thumbnail": "https://VibePixelX.github.io/images/958.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "rope-sorting",
+    "thumbnail": "https://VibePixelX.github.io/images/959.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gt-championship-arcade",
+    "thumbnail": "https://VibePixelX.github.io/images/960.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "panda-adventure",
+    "thumbnail": "https://VibePixelX.github.io/images/961.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pushio",
+    "thumbnail": "https://VibePixelX.github.io/images/962.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "toilet-time",
+    "thumbnail": "https://VibePixelX.github.io/images/963.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "my-tiny-market",
+    "thumbnail": "https://VibePixelX.github.io/images/964.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "throne-vs-balloons",
+    "thumbnail": "https://VibePixelX.github.io/images/965.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dinosaurs-vs-asteroids",
+    "thumbnail": "https://VibePixelX.github.io/images/966.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "candy-match-4",
+    "thumbnail": "https://VibePixelX.github.io/images/967.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "tower-defense",
+    "thumbnail": "https://VibePixelX.github.io/images/968.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "chain-cube-2048-3d-merge-game",
+    "thumbnail": "https://VibePixelX.github.io/images/969.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "las-vegas-poker",
+    "thumbnail": "https://VibePixelX.github.io/images/970.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "radical-rappelling",
+    "thumbnail": "https://VibePixelX.github.io/images/971.webp",
+    "genre": "Sports, Strategy"
+  },
+  {
+    "id": "doggo-jump",
+    "thumbnail": "https://VibePixelX.github.io/images/972.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "guess-word",
+    "thumbnail": "https://VibePixelX.github.io/images/973.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "turbo-stunt-racing",
+    "thumbnail": "https://VibePixelX.github.io/images/974.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "impostor-among-us-escape-from-prison",
+    "thumbnail": "https://VibePixelX.github.io/images/975.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "bubble-shooter-butterfly",
+    "thumbnail": "https://VibePixelX.github.io/images/976.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "smashdoll",
+    "thumbnail": "https://VibePixelX.github.io/images/977.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "warping-bat",
+    "thumbnail": "https://VibePixelX.github.io/images/978.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "zooma-dragon",
+    "thumbnail": "https://VibePixelX.github.io/images/979.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "basket-shot",
+    "thumbnail": "https://VibePixelX.github.io/images/980.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "cute-relaxing-matching-3-tiles",
+    "thumbnail": "https://VibePixelX.github.io/images/981.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "spider-solitaire-fuw",
+    "thumbnail": "https://VibePixelX.github.io/images/982.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-drift-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/983.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "8-ball-pool-wyr",
+    "thumbnail": "https://VibePixelX.github.io/images/984.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "unicorn-find-the-differences",
+    "thumbnail": "https://VibePixelX.github.io/images/985.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cute-cats-adventures",
+    "thumbnail": "https://VibePixelX.github.io/images/986.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ship-control-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/987.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "ultimate-yatzy",
+    "thumbnail": "https://VibePixelX.github.io/images/988.webp",
+    "genre": "Boardgames, Strategy"
+  },
+  {
+    "id": "doggo-drop",
+    "thumbnail": "https://VibePixelX.github.io/images/989.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "last-day-on-earth-survival",
+    "thumbnail": "https://VibePixelX.github.io/images/990.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "power-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/991.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-draw-to-escape",
+    "thumbnail": "https://VibePixelX.github.io/images/992.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "survival-in-area-51",
+    "thumbnail": "https://VibePixelX.github.io/images/993.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "art-puzzle-master",
+    "thumbnail": "https://VibePixelX.github.io/images/994.webp",
+    "genre": "Puzzle, Art, Casual"
+  },
+  {
+    "id": "candy-color-sort-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/995.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-brain-test-games",
+    "thumbnail": "https://VibePixelX.github.io/images/996.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "real-flight-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/997.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "girly-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/998.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "idle-pop-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/999.webp",
+    "genre": "Shooter, Merge"
+  },
+  {
+    "id": "gt-flying-car-racing",
+    "thumbnail": "https://VibePixelX.github.io/images/1000.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "sprunki-torches-maze",
+    "thumbnail": "https://VibePixelX.github.io/images/1001.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "arrow-escape",
+    "thumbnail": "https://VibePixelX.github.io/images/1002.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "burger-empire",
+    "thumbnail": "https://VibePixelX.github.io/images/1003.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "fire-and-water-birds",
+    "thumbnail": "https://VibePixelX.github.io/images/1004.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "screw-nuts-bolts-wood-solve",
+    "thumbnail": "https://VibePixelX.github.io/images/1005.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-shooter-spinner-pop",
+    "thumbnail": "https://VibePixelX.github.io/images/1006.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "tile-hex-world-red-vs-blue",
+    "thumbnail": "https://VibePixelX.github.io/images/1007.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "racing-island",
+    "thumbnail": "https://VibePixelX.github.io/images/1008.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "delta-force-airborne",
+    "thumbnail": "https://VibePixelX.github.io/images/1009.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "ellie-and-friends-get-ready-for-first-date",
+    "thumbnail": "https://VibePixelX.github.io/images/1010.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "boo-tiful-princess-match",
+    "thumbnail": "https://VibePixelX.github.io/images/1011.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "wordling-daily-word-challenge",
+    "thumbnail": "https://VibePixelX.github.io/images/1012.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ink-shop-dress-tattoo",
+    "thumbnail": "https://VibePixelX.github.io/images/1013.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "extreme-real-car-driving-2025",
+    "thumbnail": "https://VibePixelX.github.io/images/1014.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "stickman-escapes-from-prison",
+    "thumbnail": "https://VibePixelX.github.io/images/1015.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "number-bubble-shooter",
+    "thumbnail": "https://VibePixelX.github.io/images/1016.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "castle-craft",
+    "thumbnail": "https://VibePixelX.github.io/images/1017.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "alien-chase-swing-and-fly",
+    "thumbnail": "https://VibePixelX.github.io/images/1018.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dino-game",
+    "thumbnail": "https://VibePixelX.github.io/images/1019.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "click-click-clicker",
+    "thumbnail": "https://VibePixelX.github.io/images/1020.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "purrfect-bakery",
+    "thumbnail": "https://VibePixelX.github.io/images/1021.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-fruit",
+    "thumbnail": "https://VibePixelX.github.io/images/1022.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "malatang-master-stack-run-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/1023.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "heritage-mahjong-classic",
+    "thumbnail": "https://VibePixelX.github.io/images/1024.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "find-the-differences-cars",
+    "thumbnail": "https://VibePixelX.github.io/images/1025.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "goods-triple-match-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/1026.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "arrows-puzzle-escape",
+    "thumbnail": "https://VibePixelX.github.io/images/1027.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cooking-world-reborn",
+    "thumbnail": "https://VibePixelX.github.io/images/1028.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "vega-mix-fairy-town",
+    "thumbnail": "https://VibePixelX.github.io/images/1029.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "new-years-miracles-connect-the-balls",
+    "thumbnail": "https://VibePixelX.github.io/images/1030.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "farm-match-seasons-3",
+    "thumbnail": "https://VibePixelX.github.io/images/1031.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gta-car-rush",
+    "thumbnail": "https://VibePixelX.github.io/images/1032.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "fruit-survivor",
+    "thumbnail": "https://VibePixelX.github.io/images/1033.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "battle-zone-2d",
+    "thumbnail": "https://VibePixelX.github.io/images/1034.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "match-ten-number-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/1035.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "teardown-destruction-sandbox",
+    "thumbnail": "https://VibePixelX.github.io/images/1036.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "king-kong-kart-racing",
+    "thumbnail": "https://VibePixelX.github.io/images/1037.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "happy-color",
+    "thumbnail": "https://VibePixelX.github.io/images/1038.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "paw-clash",
+    "thumbnail": "https://VibePixelX.github.io/images/1039.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "tower-wars-arena",
+    "thumbnail": "https://VibePixelX.github.io/images/1040.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "noob-legends-dungeon-adventures",
+    "thumbnail": "https://VibePixelX.github.io/images/1041.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "poopy-escape-the-prison",
+    "thumbnail": "https://VibePixelX.github.io/images/1042.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "homo-evolution",
+    "thumbnail": "https://VibePixelX.github.io/images/1043.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "school-escape-obbie-run",
+    "thumbnail": "https://VibePixelX.github.io/images/1044.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "bff-easter-photobooth-party",
+    "thumbnail": "https://VibePixelX.github.io/images/1045.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "brain-find-can-you-find-it",
+    "thumbnail": "https://VibePixelX.github.io/images/1046.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fashion-world-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/1047.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "cyberpunk-city-fashion",
+    "thumbnail": "https://VibePixelX.github.io/images/1048.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "zombie-siegeio",
+    "thumbnail": "https://VibePixelX.github.io/images/1049.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "mini-obby-war-game",
+    "thumbnail": "https://VibePixelX.github.io/images/1050.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "bffs-luxury-loungewear",
+    "thumbnail": "https://VibePixelX.github.io/images/1051.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "car-vs-zombies",
+    "thumbnail": "https://VibePixelX.github.io/images/1052.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "easter-style-junction-egg-hunt-extravaganza",
+    "thumbnail": "https://VibePixelX.github.io/images/1053.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "cosmic-tetriz-puzzles",
+    "thumbnail": "https://VibePixelX.github.io/images/1054.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "the-trendy-mermaid",
+    "thumbnail": "https://VibePixelX.github.io/images/1055.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "zombie-eeaster-bunnies",
+    "thumbnail": "https://VibePixelX.github.io/images/1056.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "emergency-operator",
+    "thumbnail": "https://VibePixelX.github.io/images/1057.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "cat-vs-kripotians",
+    "thumbnail": "https://VibePixelX.github.io/images/1058.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "stickman-brawler",
+    "thumbnail": "https://VibePixelX.github.io/images/1059.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "dreamy-home",
+    "thumbnail": "https://VibePixelX.github.io/images/1060.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "italian-brainrot-bike-rush",
+    "thumbnail": "https://VibePixelX.github.io/images/1061.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "barbee-summer-vacation",
+    "thumbnail": "https://VibePixelX.github.io/images/1062.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bublix-bubble-hit",
+    "thumbnail": "https://VibePixelX.github.io/images/1063.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "dino-hunter-king",
+    "thumbnail": "https://VibePixelX.github.io/images/1064.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "color-race-obby",
+    "thumbnail": "https://VibePixelX.github.io/images/1065.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "wonders-of-egypt-match-2",
+    "thumbnail": "https://VibePixelX.github.io/images/1066.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hidden-objects-island-secrets",
+    "thumbnail": "https://VibePixelX.github.io/images/1067.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "noob-saving-friends",
+    "thumbnail": "https://VibePixelX.github.io/images/1068.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bubble-sky",
+    "thumbnail": "https://VibePixelX.github.io/images/1069.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "digital-circus-find-the-differences",
+    "thumbnail": "https://VibePixelX.github.io/images/1070.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "snow-race-3d-fun-racing",
+    "thumbnail": "https://VibePixelX.github.io/images/1071.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "aqua-sort-water-color-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/1072.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "super-rock-climber",
+    "thumbnail": "https://VibePixelX.github.io/images/1073.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "brainrots-lava-survive-online",
+    "thumbnail": "https://VibePixelX.github.io/images/1074.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "people-playground-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/1075.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "hospital-game-happy-clinic",
+    "thumbnail": "https://VibePixelX.github.io/images/1076.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "microplastics-feeding",
+    "thumbnail": "https://VibePixelX.github.io/images/1077.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cat-escape",
+    "thumbnail": "https://VibePixelX.github.io/images/1078.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "clash-run",
+    "thumbnail": "https://VibePixelX.github.io/images/1079.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "unblock-it-atlantis",
+    "thumbnail": "https://VibePixelX.github.io/images/1080.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dictator-simulator-1984",
+    "thumbnail": "https://VibePixelX.github.io/images/1081.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "music-rush",
+    "thumbnail": "https://VibePixelX.github.io/images/1082.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "hand-over-hand",
+    "thumbnail": "https://VibePixelX.github.io/images/1083.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "dice-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/1084.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "celebrity-thanksgiving-prep",
+    "thumbnail": "https://VibePixelX.github.io/images/1085.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "slide-block-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/1086.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "sigma-boy-musical-clicker",
+    "thumbnail": "https://VibePixelX.github.io/images/1087.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cube-to-hole-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/1088.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hotel-manager",
+    "thumbnail": "https://VibePixelX.github.io/images/1089.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "royal-rebellion-punk-magic",
+    "thumbnail": "https://VibePixelX.github.io/images/1090.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "i8-city-driver",
+    "thumbnail": "https://VibePixelX.github.io/images/1091.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ants-party",
+    "thumbnail": "https://VibePixelX.github.io/images/1092.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "craftmart",
+    "thumbnail": "https://VibePixelX.github.io/images/1093.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "hill-climb-truck-transform-adventure",
+    "thumbnail": "https://VibePixelX.github.io/images/1094.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "tattoo-master",
+    "thumbnail": "https://VibePixelX.github.io/images/1095.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hero-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/1096.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bonnie-fitness-frenzy",
+    "thumbnail": "https://VibePixelX.github.io/images/1097.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "impostor-hook-master",
+    "thumbnail": "https://VibePixelX.github.io/images/1098.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "car-parking-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/1099.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "pixel-art",
+    "thumbnail": "https://VibePixelX.github.io/images/1100.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "traffic-tap-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/1101.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "moto-attack-bike-racing",
+    "thumbnail": "https://VibePixelX.github.io/images/1102.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "screw-jam",
+    "thumbnail": "https://VibePixelX.github.io/images/1103.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bouncy-blob-race-obstacle-course",
+    "thumbnail": "https://VibePixelX.github.io/images/1104.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "red-light-green-light",
+    "thumbnail": "https://VibePixelX.github.io/images/1105.webp",
+    "genre": "Agility, Simulation"
+  },
+  {
+    "id": "count-masters-stickman-games",
+    "thumbnail": "https://VibePixelX.github.io/images/1106.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "boom-stick-bazooka",
+    "thumbnail": "https://VibePixelX.github.io/images/1107.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "survival-island-evo",
+    "thumbnail": "https://VibePixelX.github.io/images/1108.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hill-racing-egg-drop",
+    "thumbnail": "https://VibePixelX.github.io/images/1109.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "parkour-obby",
+    "thumbnail": "https://VibePixelX.github.io/images/1110.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "asoka-makeup-indian-bride",
+    "thumbnail": "https://VibePixelX.github.io/images/1111.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "nutcracker-new-years-adventures",
+    "thumbnail": "https://VibePixelX.github.io/images/1112.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "evermatch",
+    "thumbnail": "https://VibePixelX.github.io/images/1113.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hidden-pairs-mahjong",
+    "thumbnail": "https://VibePixelX.github.io/images/1114.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "bmg-crashday-2025",
+    "thumbnail": "https://VibePixelX.github.io/images/1115.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "live-or-die",
+    "thumbnail": "https://VibePixelX.github.io/images/1116.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "idle-merge-car-and-race",
+    "thumbnail": "https://VibePixelX.github.io/images/1117.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "clean-the-floor",
+    "thumbnail": "https://VibePixelX.github.io/images/1118.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "stickman-vs-zombies-epic-fight",
+    "thumbnail": "https://VibePixelX.github.io/images/1119.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "bloxdhop-io",
+    "thumbnail": "https://VibePixelX.github.io/images/1120.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sticker-jam-peel-off-match",
+    "thumbnail": "https://VibePixelX.github.io/images/1121.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pottery-master",
+    "thumbnail": "https://VibePixelX.github.io/images/1122.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "asylum-baldi-granny-slender",
+    "thumbnail": "https://VibePixelX.github.io/images/1123.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cuddle-monster-fusion",
+    "thumbnail": "https://VibePixelX.github.io/images/1124.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "puzzle-box-brain-fun",
+    "thumbnail": "https://VibePixelX.github.io/images/1125.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fight-trivia",
+    "thumbnail": "https://VibePixelX.github.io/images/1126.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "shape-transform-blob-racing",
+    "thumbnail": "https://VibePixelX.github.io/images/1127.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "phone-case-diy-5",
+    "thumbnail": "https://VibePixelX.github.io/images/1128.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "quizmania-trivia-game",
+    "thumbnail": "https://VibePixelX.github.io/images/1129.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "labubu-pop",
+    "thumbnail": "https://VibePixelX.github.io/images/1130.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "lady-pool",
+    "thumbnail": "https://VibePixelX.github.io/images/1131.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "pim-path",
+    "thumbnail": "https://VibePixelX.github.io/images/1132.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dazzling-divas-makeup",
+    "thumbnail": "https://VibePixelX.github.io/images/1133.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "cs-command-snipers",
+    "thumbnail": "https://VibePixelX.github.io/images/1134.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "portals",
+    "thumbnail": "https://VibePixelX.github.io/images/1135.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "summer-connect",
+    "thumbnail": "https://VibePixelX.github.io/images/1136.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "buildnow-gg",
+    "thumbnail": "https://VibePixelX.github.io/images/1137.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "drive-to-survive",
+    "thumbnail": "https://VibePixelX.github.io/images/1138.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "walkers-attack",
+    "thumbnail": "https://VibePixelX.github.io/images/1139.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "real-motorbike-super-hero-stunt-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/1140.webp",
+    "genre": "Racing & Driving, .IO"
+  },
+  {
+    "id": "worms",
+    "thumbnail": "https://VibePixelX.github.io/images/1141.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sniper-elite-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/1142.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "color-nuts-bolts-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/1143.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fighter-stick-hero",
+    "thumbnail": "https://VibePixelX.github.io/images/1144.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "sudoku-brain-blocks",
+    "thumbnail": "https://VibePixelX.github.io/images/1145.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "christmas-snowball-arena",
+    "thumbnail": "https://VibePixelX.github.io/images/1146.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "shoot-2048-hexa",
+    "thumbnail": "https://VibePixelX.github.io/images/1147.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "drawer-sort",
+    "thumbnail": "https://VibePixelX.github.io/images/1148.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "tank-battleio",
+    "thumbnail": "https://VibePixelX.github.io/images/1149.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "light-line",
+    "thumbnail": "https://VibePixelX.github.io/images/1150.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "so-different-dragons",
+    "thumbnail": "https://VibePixelX.github.io/images/1151.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "secret-galaxy-match-three",
+    "thumbnail": "https://VibePixelX.github.io/images/1152.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "fruit-jam-merge-puzzle-game",
+    "thumbnail": "https://VibePixelX.github.io/images/1153.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "neighborhood-defense",
+    "thumbnail": "https://VibePixelX.github.io/images/1154.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "2-player-games-kids-kitchen",
+    "thumbnail": "https://VibePixelX.github.io/images/1155.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "traffic-escape-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/1156.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ragdoll-parkour-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/1157.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "vampiric-roulette-romance",
+    "thumbnail": "https://VibePixelX.github.io/images/1158.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "block-mania",
+    "thumbnail": "https://VibePixelX.github.io/images/1159.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tank-challenge",
+    "thumbnail": "https://VibePixelX.github.io/images/1160.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "alien-hunters",
+    "thumbnail": "https://VibePixelX.github.io/images/1161.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "kitchen-sorting",
+    "thumbnail": "https://VibePixelX.github.io/images/1162.webp",
+    "genre": "Cooking, Puzzle"
+  },
+  {
+    "id": "wild-race-master-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/1163.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "superhero-escape-run-parkour-challenge",
+    "thumbnail": "https://VibePixelX.github.io/images/1164.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "backgammon-deluxe-edition",
+    "thumbnail": "https://VibePixelX.github.io/images/1165.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "city-builder",
+    "thumbnail": "https://VibePixelX.github.io/images/1166.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "tropical-match-2",
+    "thumbnail": "https://VibePixelX.github.io/images/1167.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "huggy-wuggy-guess-the-right-door",
+    "thumbnail": "https://VibePixelX.github.io/images/1168.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "commando-force-2",
+    "thumbnail": "https://VibePixelX.github.io/images/1169.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "pet-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/1170.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cut-in-half",
+    "thumbnail": "https://VibePixelX.github.io/images/1171.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "my-farm-life",
+    "thumbnail": "https://VibePixelX.github.io/images/1172.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "slice-it-up",
+    "thumbnail": "https://VibePixelX.github.io/images/1173.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "colorwarsio",
+    "thumbnail": "https://VibePixelX.github.io/images/1174.webp",
+    "genre": "Shooter, .IO"
+  },
+  {
+    "id": "sniper-team-3",
+    "thumbnail": "https://VibePixelX.github.io/images/1175.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "sid-ginny-y2k-glam-clash",
+    "thumbnail": "https://VibePixelX.github.io/images/1176.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hyper-knight",
+    "thumbnail": "https://VibePixelX.github.io/images/1177.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fill-glass",
+    "thumbnail": "https://VibePixelX.github.io/images/1178.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "taxi-driver-simulator",
+    "thumbnail": "https://VibePixelX.github.io/images/1179.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "zombcopter",
+    "thumbnail": "https://VibePixelX.github.io/images/1180.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "batzo-runner",
+    "thumbnail": "https://VibePixelX.github.io/images/1181.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mystic-object-hunt",
+    "thumbnail": "https://VibePixelX.github.io/images/1182.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "ancient-wars-caesar",
+    "thumbnail": "https://VibePixelX.github.io/images/1183.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "angry-chibi-run",
+    "thumbnail": "https://VibePixelX.github.io/images/1184.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "slenderman-back-to-school",
+    "thumbnail": "https://VibePixelX.github.io/images/1185.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "burger-catch",
+    "thumbnail": "https://VibePixelX.github.io/images/1186.webp",
+    "genre": "Cooking, Casual"
+  },
+  {
+    "id": "hungry-snake-io",
+    "thumbnail": "https://VibePixelX.github.io/images/1187.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "merge-magnat-ideal-store",
+    "thumbnail": "https://VibePixelX.github.io/images/1188.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "witch-fairy-bff",
+    "thumbnail": "https://VibePixelX.github.io/images/1189.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "elevator-fight",
+    "thumbnail": "https://VibePixelX.github.io/images/1190.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "tiny-baker-ocean-jelly-cake",
+    "thumbnail": "https://VibePixelX.github.io/images/1191.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "monster-squad-rush",
+    "thumbnail": "https://VibePixelX.github.io/images/1192.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "backflip-master",
+    "thumbnail": "https://VibePixelX.github.io/images/1193.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "royal-garden-match-2",
+    "thumbnail": "https://VibePixelX.github.io/images/1194.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cooking-festival",
+    "thumbnail": "https://VibePixelX.github.io/images/1195.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "paperly-paper-plane-adventure",
+    "thumbnail": "https://VibePixelX.github.io/images/1196.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "nose-hospital",
+    "thumbnail": "https://VibePixelX.github.io/images/1197.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "fight-for-the-tree",
+    "thumbnail": "https://VibePixelX.github.io/images/1198.webp",
+    "genre": "Battle, Simulation"
+  },
+  {
+    "id": "sort-and-style-back-to-school",
+    "thumbnail": "https://VibePixelX.github.io/images/1199.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "obby-on-a-bike",
+    "thumbnail": "https://VibePixelX.github.io/images/1200.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "stick-ninja-survival",
+    "thumbnail": "https://VibePixelX.github.io/images/1201.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mergest-kingdom",
+    "thumbnail": "https://VibePixelX.github.io/images/1202.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2048-cube-shooting-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/1203.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "sprunki-3d-shooter",
+    "thumbnail": "https://VibePixelX.github.io/images/1204.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "zombie-survival-shooter",
+    "thumbnail": "https://VibePixelX.github.io/images/1205.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "cap",
+    "thumbnail": "https://VibePixelX.github.io/images/1206.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "suitable-outfit-dressup",
+    "thumbnail": "https://VibePixelX.github.io/images/1207.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "car-racing-3d-drive-mad",
+    "thumbnail": "https://VibePixelX.github.io/images/1208.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "forest-tiles",
+    "thumbnail": "https://VibePixelX.github.io/images/1209.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "foxy-eco-sort",
+    "thumbnail": "https://VibePixelX.github.io/images/1210.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "star-wing",
+    "thumbnail": "https://VibePixelX.github.io/images/1211.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "marathon-race-io",
+    "thumbnail": "https://VibePixelX.github.io/images/1212.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "childrens-doctor-treating-ears",
+    "thumbnail": "https://VibePixelX.github.io/images/1213.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "suika-kawaii-cat-merge-game",
+    "thumbnail": "https://VibePixelX.github.io/images/1214.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "freddys-nightmares-return-horror-new-year",
+    "thumbnail": "https://VibePixelX.github.io/images/1215.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "number-bubble-shooter-wild-west",
+    "thumbnail": "https://VibePixelX.github.io/images/1216.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "word-clash",
+    "thumbnail": "https://VibePixelX.github.io/images/1217.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "strike-it",
+    "thumbnail": "https://VibePixelX.github.io/images/1218.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "solitaire-klondike-treasure-island",
+    "thumbnail": "https://VibePixelX.github.io/images/1219.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "my-dreamy-flora-fashion-look",
+    "thumbnail": "https://VibePixelX.github.io/images/1220.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "chiron-city-driver",
+    "thumbnail": "https://VibePixelX.github.io/images/1221.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "spin-spin",
+    "thumbnail": "https://VibePixelX.github.io/images/1222.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tobinin",
+    "thumbnail": "https://VibePixelX.github.io/images/1223.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "super-elip-adventure",
+    "thumbnail": "https://VibePixelX.github.io/images/1224.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fruit-merge-reloaded",
+    "thumbnail": "https://VibePixelX.github.io/images/1225.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mustang-city-driver",
+    "thumbnail": "https://VibePixelX.github.io/images/1226.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "crazy-bar-brawl",
+    "thumbnail": "https://VibePixelX.github.io/images/1227.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "fruit-balls-juicy-fusion",
+    "thumbnail": "https://VibePixelX.github.io/images/1228.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "drop-bricks-breaker",
+    "thumbnail": "https://VibePixelX.github.io/images/1229.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "head-runner-dash",
+    "thumbnail": "https://VibePixelX.github.io/images/1230.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "panda-dash-auto-shooting",
+    "thumbnail": "https://VibePixelX.github.io/images/1231.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "sand-blast",
+    "thumbnail": "https://VibePixelX.github.io/images/1232.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "line-on-hole",
+    "thumbnail": "https://VibePixelX.github.io/images/1233.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "colors-pins",
+    "thumbnail": "https://VibePixelX.github.io/images/1234.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-santa",
+    "thumbnail": "https://VibePixelX.github.io/images/1235.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "geometry-vibes",
+    "thumbnail": "https://VibePixelX.github.io/images/1236.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "obby-dead-river",
+    "thumbnail": "https://VibePixelX.github.io/images/1237.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "eat-and-grow-fish",
+    "thumbnail": "https://VibePixelX.github.io/images/1238.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-pixel",
+    "thumbnail": "https://VibePixelX.github.io/images/1239.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "scary-banban-escape",
+    "thumbnail": "https://VibePixelX.github.io/images/1240.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "brainrot-hook-swing",
+    "thumbnail": "https://VibePixelX.github.io/images/1241.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "fun-mini-games-for-kids",
+    "thumbnail": "https://VibePixelX.github.io/images/1242.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tiny-fighter-unstoppable-run",
+    "thumbnail": "https://VibePixelX.github.io/images/1243.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "team-loyalty",
+    "thumbnail": "https://VibePixelX.github.io/images/1244.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-3d-sprunki-parkour",
+    "thumbnail": "https://VibePixelX.github.io/images/1245.webp",
+    "genre": "Agility, Simulation"
+  },
+  {
+    "id": "sneaker-factory",
+    "thumbnail": "https://VibePixelX.github.io/images/1246.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "potion-merge-witch",
+    "thumbnail": "https://VibePixelX.github.io/images/1247.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "rocket-sky",
+    "thumbnail": "https://VibePixelX.github.io/images/1248.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "run-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/1249.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "my-little-car-wash",
+    "thumbnail": "https://VibePixelX.github.io/images/1250.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "mahjong-pet-quest",
+    "thumbnail": "https://VibePixelX.github.io/images/1251.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "battle-arena-race-to-win",
+    "thumbnail": "https://VibePixelX.github.io/images/1252.webp",
+    "genre": "Racing & Driving, Battle"
+  },
+  {
+    "id": "moto-x3m-dead-ahead",
+    "thumbnail": "https://VibePixelX.github.io/images/1253.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "sudoku-garden",
+    "thumbnail": "https://VibePixelX.github.io/images/1254.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "3d-basketballio-dunk-sport",
+    "thumbnail": "https://VibePixelX.github.io/images/1255.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "office-brawl-room-smash",
+    "thumbnail": "https://VibePixelX.github.io/images/1256.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "mineblocks-3d-maze",
+    "thumbnail": "https://VibePixelX.github.io/images/1257.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "drill-quest",
+    "thumbnail": "https://VibePixelX.github.io/images/1258.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "number-place-travel",
+    "thumbnail": "https://VibePixelX.github.io/images/1259.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blocks-breaker",
+    "thumbnail": "https://VibePixelX.github.io/images/1260.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sudoku-master",
+    "thumbnail": "https://VibePixelX.github.io/images/1261.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "us-army-car-games-truck-driving",
+    "thumbnail": "https://VibePixelX.github.io/images/1262.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "scary-pairs",
+    "thumbnail": "https://VibePixelX.github.io/images/1263.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "poppy-player-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/1264.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "one-line-drawing",
+    "thumbnail": "https://VibePixelX.github.io/images/1265.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "head-jump",
+    "thumbnail": "https://VibePixelX.github.io/images/1266.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "festival-vibes-makeup",
+    "thumbnail": "https://VibePixelX.github.io/images/1267.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "country-life-meadows",
+    "thumbnail": "https://VibePixelX.github.io/images/1268.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robots-gone-wild",
+    "thumbnail": "https://VibePixelX.github.io/images/1269.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "chocolate-dream-idle-factory",
+    "thumbnail": "https://VibePixelX.github.io/images/1270.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "crazy-office-slap-and-smash",
+    "thumbnail": "https://VibePixelX.github.io/images/1271.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "master-of-3-tiles",
+    "thumbnail": "https://VibePixelX.github.io/images/1272.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mine-quest-daily",
+    "thumbnail": "https://VibePixelX.github.io/images/1273.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "balls-vs-lasers",
+    "thumbnail": "https://VibePixelX.github.io/images/1274.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wooden-bolts-and-nuts",
+    "thumbnail": "https://VibePixelX.github.io/images/1275.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hypper-sandbox",
+    "thumbnail": "https://VibePixelX.github.io/images/1276.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jennys-math-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/1277.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "powerful-punch",
+    "thumbnail": "https://VibePixelX.github.io/images/1278.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "granny-3-return-the-school",
+    "thumbnail": "https://VibePixelX.github.io/images/1279.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "mega-escape-car-parking-puzzle",
+    "thumbnail": "https://VibePixelX.github.io/images/1280.webp",
+    "genre": "Puzzle, .IO"
+  },
+  {
+    "id": "square-world-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/1281.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "romantic-k-pop-transformation",
+    "thumbnail": "https://VibePixelX.github.io/images/1282.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bloxorz-block-puzzle-3d",
+    "thumbnail": "https://VibePixelX.github.io/images/1283.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "squid-game-craft-runner",
+    "thumbnail": "https://VibePixelX.github.io/images/1284.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "cube-connect",
+    "thumbnail": "https://VibePixelX.github.io/images/1285.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "color-block-jam-2",
+    "thumbnail": "https://VibePixelX.github.io/images/1286.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bear-vs-humans",
+    "thumbnail": "https://VibePixelX.github.io/images/1287.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "idle-trade-routes",
+    "thumbnail": "https://VibePixelX.github.io/images/1288.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "spider-noob-obstacle-course",
+    "thumbnail": "https://VibePixelX.github.io/images/1289.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "siberian-assault",
+    "thumbnail": "https://VibePixelX.github.io/images/1290.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "squid-game-playground-shooter",
+    "thumbnail": "https://VibePixelX.github.io/images/1291.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "two-supra-drifters",
+    "thumbnail": "https://VibePixelX.github.io/images/1292.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "hot-cold-winter-style",
+    "thumbnail": "https://VibePixelX.github.io/images/1293.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "school-love-story-1",
+    "thumbnail": "https://VibePixelX.github.io/images/1294.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cannon-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/1295.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "dummies-world-cup",
+    "thumbnail": "https://VibePixelX.github.io/images/1296.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "christmas-merge",
+    "thumbnail": "https://VibePixelX.github.io/images/1297.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tropical-cubes-2048",
+    "thumbnail": "https://VibePixelX.github.io/images/1298.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "block-tnt-blast",
+    "thumbnail": "https://VibePixelX.github.io/images/1299.webp",
+    "genre": "Simulation"
+  }
+]
